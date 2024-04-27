@@ -1,7 +1,7 @@
 // @ts-check
-import coderbaozi from '@coderbaozi/eslint-config'
+import antfu from '@antfu/eslint-config'
 
-export default coderbaozi(
+export default antfu(
   {
     ignores: [
       // eslint ignore globs here
